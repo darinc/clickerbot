@@ -1,0 +1,2 @@
+# clickerbot
+Auto click robot
